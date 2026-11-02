@@ -1,8 +1,8 @@
 {
   "titulo_pestana": "Ministerio Profético La Luz Resplandeciente Internacional",
-  "titulo": "La Luz Resplandeciente Internacional",
+  "titulo": "Ministerio Profético La Luz Resplandeciente Internacional",
   "subtitulo": "Ministerio Profético con sede en San Salvador, El Salvador. Cobertura ministerial para pastores e iglesias.",
-  "logo": "media/logo.jpg",
+  "logo": "/media/logo.jpg",
   "bienvenida": {
     "titulo": "Bienvenido, estimado pastor",
     "parrafos": [
@@ -71,15 +71,15 @@
     "intro": "Lucy de Rodríguez y el pastor Alex Rodríguez, Presbiterio en El Salvador. Sus hijos hoy tienen 22 y 16 años.",
     "fotos": [
       {
-        "imagen": "media/familia-1.jpg",
+        "imagen": "/media/familia-1.jpg",
         "pie": "Con la familia, nuestros hijos ya crecieron."
       },
       {
-        "imagen": "media/familia-2.jpg",
+        "imagen": "/media/familia-2.jpg",
         "pie": "En una actividad de la iglesia, dando gracias a Dios."
       },
       {
-        "imagen": "media/familia-3.jpg",
+        "imagen": "/media/familia-3.jpg",
         "pie": "Los pastores generales del Presbiterio en El Salvador."
       }
     ]
@@ -92,7 +92,7 @@
       "Pablo instruye a Tito sobre la sana doctrina, la integridad en la vida personal y la esperanza de salvación. Cada grupo tiene un papel en el cuerpo de Cristo, y nuestras vidas deben ser modelo de buenas obras en pensamientos, palabras y acciones.",
       "Dios quiere que seamos diferentes. Si hay pecado en un creyente, lo exhortamos con amor y lo traemos a los pies de Cristo para reconciliación."
     ],
-    "imagen": "media/biblia.jpg"
+    "imagen": "/media/biblia.jpg"
   },
   "fe": {
     "titulo": "Declaración de fe",
@@ -204,10 +204,7 @@
   },
   "multimedia": {
     "titulo": "Radio en línea y multimedia",
-    "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar.",
-    "radio_url": "",
-    "video_url": "",
-    "video_archivo": ""
+    "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar."
   },
   "contacto": {
     "titulo": "Pida su cobertura",
@@ -224,9 +221,6 @@
         "texto": "(503) 7992-5261"
       }
     ],
-    "whatsapp": "50377830584",
-    "email": "",
-    "facebook": "",
-    "donaciones": ""
+    "whatsapp": "50377830584"
   }
 }
