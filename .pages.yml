@@ -1,0 +1,275 @@
+media: media
+content:
+- name: sitio
+  label: Contenido de la página
+  type: file
+  path: content/site.json
+  fields:
+  - name: titulo_pestana
+    label: Título de la pestaña del navegador
+    type: string
+  - name: titulo
+    label: Título
+    type: string
+  - name: subtitulo
+    label: Subtítulo
+    type: text
+  - name: logo
+    label: Logotipo
+    type: image
+  - name: bienvenida
+    label: Bienvenida
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: parrafos
+      label: Párrafos
+      list: true
+      type: text
+    - name: cita
+      label: Cita
+      type: string
+    - name: cita_autor
+      label: Autor de la cita
+      type: string
+  - name: licencias
+    label: Licencias
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: intro
+      label: Introducción
+      type: string
+    - name: items
+      label: Lista de licencias
+      list: true
+      type: object
+      fields:
+      - name: nombre
+        label: Nombre
+        type: string
+      - name: detalle
+        label: Detalle
+        type: string
+    - name: nota
+      label: Nota final
+      type: text
+  - name: deberes
+    label: Deberes y obligaciones
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: lista_titulo
+      label: Título de la lista
+      type: string
+    - name: lista
+      label: Lista
+      list: true
+      type: string
+    - name: faltas_titulo
+      label: Título de faltas
+      type: string
+    - name: faltas
+      label: Faltas
+      list: true
+      type: object
+      fields:
+      - name: titulo
+        label: Título
+        type: string
+      - name: texto
+        label: Texto
+        type: text
+  - name: pastores
+    label: Pastores generales
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: intro
+      label: Introducción
+      type: text
+    - name: fotos
+      label: Fotos
+      list: true
+      type: object
+      fields:
+      - name: imagen
+        label: Imagen
+        type: image
+      - name: pie
+        label: Texto bajo la foto
+        type: string
+  - name: ensenanza
+    label: Enseñanza
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: cita
+      label: Cita
+      type: text
+    - name: cita_ref
+      label: Referencia
+      type: string
+    - name: parrafos
+      label: Párrafos
+      list: true
+      type: text
+    - name: imagen
+      label: Imagen
+      type: image
+  - name: fe
+    label: Declaración de fe
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: declaraciones
+      label: Declaraciones
+      list: true
+      type: string
+    - name: confesion_titulo
+      label: Título de la confesión
+      type: string
+    - name: confesion
+      label: Confesión de fe
+      list: true
+      type: object
+      fields:
+      - name: titulo
+        label: Título
+        type: string
+      - name: texto
+        label: Texto
+        type: text
+  - name: vision
+    label: Visión y misión
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: intro
+      label: Introducción
+      type: text
+    - name: vision_titulo
+      label: Título de visión
+      type: string
+    - name: vision_texto
+      label: Texto de visión
+      type: text
+    - name: mision_titulo
+      label: Título de misión
+      type: string
+    - name: pasos
+      label: Pasos
+      list: true
+      type: object
+      fields:
+      - name: titulo
+        label: Título
+        type: string
+      - name: texto
+        label: Texto
+        type: string
+    - name: cierre
+      label: Texto final
+      type: text
+  - name: salvacion
+    label: Salvación
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: cita
+      label: Cita
+      type: text
+    - name: cita_ref
+      label: Referencia
+      type: string
+    - name: intro
+      label: Introducción
+      type: text
+    - name: pasos
+      label: Pasos
+      list: true
+      type: object
+      fields:
+      - name: titulo
+        label: Título
+        type: string
+      - name: texto
+        label: Texto
+        type: string
+    - name: oracion_titulo
+      label: Título de la oración
+      type: string
+    - name: oracion
+      label: Oración
+      type: text
+    - name: versiculos
+      label: Más versículos
+      type: text
+  - name: multimedia
+    label: Radio y video
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: intro
+      label: Introducción
+      type: string
+    - name: radio_url
+      label: Enlace de la radio en línea
+      type: string
+    - name: video_url
+      label: Enlace del video (YouTube u otro)
+      type: string
+    - name: video_archivo
+      label: Video subido (opcional, mejor corto)
+      type: file
+  - name: contacto
+    label: Contacto y enlaces
+    type: object
+    fields:
+    - name: titulo
+      label: Título
+      type: string
+    - name: nombre
+      label: Nombre
+      type: string
+    - name: direccion
+      label: Dirección
+      type: text
+    - name: telefonos
+      label: Teléfonos
+      list: true
+      type: object
+      fields:
+      - name: texto
+        label: Texto
+        type: string
+    - name: whatsapp
+      label: WhatsApp (número con código de país, solo dígitos)
+      type: string
+    - name: email
+      label: Correo electrónico
+      type: string
+    - name: facebook
+      label: Enlace de Facebook
+      type: string
+    - name: donaciones
+      label: Enlace de donaciones
+      type: string
