@@ -81,3 +81,14 @@ nav.top{position:sticky;top:0;z-index:30;background:var(--night);padding:env(saf
 .card{display:block;text-decoration:none;color:inherit;transition:transform .2s,border-left-color .2s}
 .card:hover{transform:translateY(-3px);border-left-color:var(--gold)}
 footer h2{color:#fff}
+
+.hero{padding:2rem 1.2rem 2.4rem}
+.hero img{width:min(150px,40vw);border-width:3px;box-shadow:0 0 0 8px rgba(255,255,255,.1),0 0 50px 10px rgba(120,180,255,.5)}
+.hero h1{font-size:clamp(1.9rem,5.5vw,3.2rem);margin:1rem auto .3rem;max-width:22ch}
+.hero p{font-size:1.05rem;margin:0 auto 1.2rem}
+.btn.radio{font-size:1.05rem;padding:.9rem 1.8rem;box-shadow:0 0 0 4px rgba(227,178,60,.3)}
+#testimonio h2{text-align:center}
+.testi{max-width:760px;margin:auto}
+.testi iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:6px}
+.testi video{width:100%;border-radius:6px;background:#000}
+.testi .btn{margin:0}
