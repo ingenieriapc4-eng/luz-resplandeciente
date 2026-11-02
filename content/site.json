@@ -204,7 +204,8 @@
   },
   "multimedia": {
     "titulo": "Radio en línea y multimedia",
-    "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar."
+    "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar.",
+    "radio_url": "El link de la radio es: radiomplr.live"
   },
   "contacto": {
     "titulo": "Pida su cobertura",
