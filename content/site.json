@@ -205,7 +205,7 @@
   "multimedia": {
     "titulo": "Radio en línea y multimedia",
     "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar.",
-    "radio_url": " radiomplr.live",
+    "radio_url": "https://radiomplr.live.",
     "video_url": "https://youtu.be/LBaLaE1r_wU?si=8tDLRwyu_-1kIu_M"
   },
   "contacto": {
