@@ -1,0 +1,232 @@
+{
+  "titulo_pestana": "Ministerio Profético La Luz Resplandeciente Internacional",
+  "titulo": "La Luz Resplandeciente Internacional",
+  "subtitulo": "Ministerio Profético con sede en San Salvador, El Salvador. Cobertura ministerial para pastores e iglesias.",
+  "logo": "media/logo.jpg",
+  "bienvenida": {
+    "titulo": "Bienvenido, estimado pastor",
+    "parrafos": [
+      "Es para nosotros darle la bienvenida a usted y a los miembros de la iglesia donde Nuestro Señor Jesucristo lo ha delegado como pastor, para que sean parte del Ministerio Profético La Luz Resplandeciente Internacional, con sede central en San Salvador, como una filial más, y poder darles cobertura.",
+      "El ministerio provee credenciales a ministros conforme al tiempo y la membresía de la iglesia o templo, y conforme al llamado que Dios ha otorgado a cada ministro. Las credenciales se otorgan según la experiencia y el tiempo del candidato."
+    ],
+    "cita": "Gracias a Dios por el privilegio de tener este ministerio y el don de ser pastores.",
+    "cita_autor": "Pastores Generales: Lucy de Rodríguez, fundadora, y su esposo, el pastor Alex Rodríguez"
+  },
+  "licencias": {
+    "titulo": "Licencias de cobertura",
+    "intro": "Cuatro categorías, según la experiencia y el tiempo del candidato.",
+    "items": [
+      {
+        "nombre": "Licencia de Laicos",
+        "detalle": "Para miembros que sirven en la iglesia."
+      },
+      {
+        "nombre": "Licencia de Licenciatura",
+        "detalle": "Segundo nivel de credencial."
+      },
+      {
+        "nombre": "Licencia de Pre-Ministro Ordenado",
+        "detalle": "Etapa previa a la ordenación."
+      },
+      {
+        "nombre": "Licencia de Ministro Ordenado",
+        "detalle": "Puede acompañar casos internos junto con la directiva de la iglesia."
+      }
+    ],
+    "nota": "Las damas pueden tomar cualquier licencia cuando tengan la experiencia, la capacitación o hayan tomado un curso pastoral, siempre que el pastor o pastora de la congregación otorgue el nombramiento y que hayan sido llamadas por Dios."
+  },
+  "deberes": {
+    "titulo": "Deberes y obligaciones",
+    "lista_titulo": "Del pastor y de la iglesia",
+    "lista": [
+      "Apartar para el ministerio los diezmos de diezmos.",
+      "Llevar un reporte mensual de entradas de diezmos y ofrendas en un libro de cuentas, como protección ante cualquier reclamo.",
+      "Entregar un reporte trimestral de entradas y salidas de todas las fuentes de la iglesia al Presbiterio General encargado en El Salvador.",
+      "Reportar al Presbiterio General cualquier negligencia de un miembro que haya recibido licencia con la autorización del pastor.",
+      "Someterse a las leyes terrenales y ministeriales de la organización. Hay cinco ministerios dados por Dios.",
+      "Pedir al Presbiterio General los estatutos adicionales que se den al solicitante de credencial."
+    ],
+    "faltas_titulo": "Cuando hay una falta",
+    "faltas": [
+      {
+        "titulo": "Falta mayor",
+        "texto": "Se estudia el caso y se entrega la investigación por escrito al Presbiterio General. Si es de carácter grave, el ministro es expulsado de inmediato y entrega su credencial. En algunos casos se entrega a la justicia civil."
+      },
+      {
+        "titulo": "Falta menor",
+        "texto": "Se lleva ante el Presbiterio General, que impone una disciplina. Si el ministro la acepta, se somete a ella ante el Presbiterio y la Mesa Directiva."
+      },
+      {
+        "titulo": "Casos dentro de una iglesia",
+        "texto": "Un Ministro Ordenado puede resolverlos con la directiva de la iglesia. Si la iglesia no puede sancionar una falta, llama al Presbiterio General."
+      },
+      {
+        "titulo": "Nuevas licencias de ministro",
+        "texto": "Si un Ministro Ordenado quiere que un miembro oficial reciba licencia, lo presenta por escrito al Presbiterio General, que estudia el caso. También puede otorgarle una Licencia de Oficial de la Iglesia."
+      }
+    ]
+  },
+  "pastores": {
+    "titulo": "Nuestros pastores generales",
+    "intro": "Lucy de Rodríguez y el pastor Alex Rodríguez, Presbiterio en El Salvador. Sus hijos hoy tienen 22 y 16 años.",
+    "fotos": [
+      {
+        "imagen": "media/familia-1.jpg",
+        "pie": "Con la familia, nuestros hijos ya crecieron."
+      },
+      {
+        "imagen": "media/familia-2.jpg",
+        "pie": "En una actividad de la iglesia, dando gracias a Dios."
+      },
+      {
+        "imagen": "media/familia-3.jpg",
+        "pie": "Los pastores generales del Presbiterio en El Salvador."
+      }
+    ]
+  },
+  "ensenanza": {
+    "titulo": "Enseñando con el ejemplo",
+    "cita": "Presentándote tú en todo como ejemplo de buenas obras; en la enseñanza mostrando integridad, seriedad, palabra sana e irreprochable.",
+    "cita_ref": "Tito 2:7-8",
+    "parrafos": [
+      "Pablo instruye a Tito sobre la sana doctrina, la integridad en la vida personal y la esperanza de salvación. Cada grupo tiene un papel en el cuerpo de Cristo, y nuestras vidas deben ser modelo de buenas obras en pensamientos, palabras y acciones.",
+      "Dios quiere que seamos diferentes. Si hay pecado en un creyente, lo exhortamos con amor y lo traemos a los pies de Cristo para reconciliación."
+    ],
+    "imagen": "media/biblia.jpg"
+  },
+  "fe": {
+    "titulo": "Declaración de fe",
+    "declaraciones": [
+      "La Biblia es la única Palabra de Dios inspirada, infalible y con autoridad.",
+      "Hay un solo Dios, eterno en tres personas: Padre, Hijo y Espíritu Santo.",
+      "Jesucristo es Dios: nació de una virgen, vivió sin pecado, hizo milagros, murió por nosotros, resucitó, ascendió y volverá en poder y gloria.",
+      "La regeneración por el Espíritu Santo es esencial para la salvación del hombre perdido.",
+      "El Espíritu Santo ministra hoy y capacita al creyente para una vida piadosa.",
+      "Habrá resurrección de los salvos para vida y de los perdidos para condenación.",
+      "Los creyentes en Cristo forman una unidad espiritual: la Iglesia, su cuerpo."
+    ],
+    "confesion_titulo": "Confesión de fe",
+    "confesion": [
+      {
+        "titulo": "Salvación solo por gracia, mediante la fe",
+        "texto": "Creemos en Jesucristo, Dios verdadero y hombre verdadero, que murió en la cruz por nuestros pecados y resucitó al tercer día. El hombre alcanza salvación solo por la fe en Él, por su gracia (Efesios 2:8-9)."
+      },
+      {
+        "titulo": "El Espíritu Santo y sus dones",
+        "texto": "Creemos en la deidad y personalidad del Espíritu Santo y en la plena manifestación de sus dones para una vida de poder y para cumplir la gran comisión."
+      },
+      {
+        "titulo": "Gobierno de la iglesia",
+        "texto": "Se establece en el orden de Efesios 4:11-12: apóstoles, profetas, evangelistas, pastores y maestros, para edificación del cuerpo de Cristo."
+      },
+      {
+        "titulo": "Las Escrituras y el bautismo",
+        "texto": "Aceptamos el canon de 66 libros (39 del Antiguo y 27 del Nuevo Testamento) como única fuente de doctrina. Creemos en el bautismo en agua por inmersión como obediencia y testimonio de fe; no tiene poder salvador."
+      },
+      {
+        "titulo": "Adoración, santidad y vestimenta",
+        "texto": "Adoramos en espíritu y en verdad, con libertad, gozo, reverencia y respeto. La santidad es una vida, no un vestir específico; la salvación no depende de la vestimenta."
+      },
+      {
+        "titulo": "Restauración, prosperidad y gracia",
+        "texto": "La iglesia está llamada a restaurar, ayudar, levantar, consolar, perdonar y exhortar, no a juzgar ni maltratar. Creemos en una vida victoriosa y en que la prosperidad llega como consecuencia de la santidad. Vivimos bajo la gracia, no bajo la ley ceremonial."
+      },
+      {
+        "titulo": "El ministerio de la mujer",
+        "texto": "Creemos en el ministerio de la mujer, llamada y capacitada por el Espíritu Santo, que no hace acepción de personas (Hechos 2:17-18; Gálatas 3:28)."
+      },
+      {
+        "titulo": "Reunión de la iglesia y prácticas",
+        "texto": "Un día a la semana la iglesia se congrega en el templo para llevar ofrendas y tomar la Cena del Señor; el resto de la semana se reúne en casas. Practicamos el matrimonio entre hombre y mujer, la presentación de niños, la Santa Cena y los diezmos y ofrendas."
+      },
+      {
+        "titulo": "Gobierno humano y sometimiento pastoral",
+        "texto": "El gobierno humano es institución de Dios; respetamos los símbolos patrios sin venerarlos. Enseñamos al pueblo a sujetarse a sus pastores (Hebreos 13:17), y recordamos a los pastores que no deben maltratar a las ovejas ni aprovecharse de su nobleza."
+      }
+    ]
+  },
+  "vision": {
+    "titulo": "Visión y misión",
+    "intro": "Somos una iglesia de Restauración Evangélica Profética. Nuestra estructura se basa en los cinco ministerios de Efesios 4:11-13, vigentes hoy.",
+    "vision_titulo": "Visión",
+    "vision_texto": "Sanar almas heridas y corazones quebrantados, sean por maldición generacional, pactos familiares o heridas causadas por personas, y restaurarlas para que hagan lo mismo con otros.",
+    "mision_titulo": "Misión: la gran comisión en cinco pasos",
+    "pasos": [
+      {
+        "titulo": "Ganar",
+        "texto": "vidas en grupos pequeños, redes evangelísticas o cultos regulares."
+      },
+      {
+        "titulo": "Consolidar",
+        "texto": "en grupos pequeños, células o casas."
+      },
+      {
+        "titulo": "Discipular",
+        "texto": "en clases con sana doctrina."
+      },
+      {
+        "titulo": "Sanar",
+        "texto": "corazones heridos mediante sanidad interior y liberación."
+      },
+      {
+        "titulo": "Enviar",
+        "texto": "a los discípulos como ministros a alcanzar más almas."
+      }
+    ],
+    "cierre": "Tenemos sede en El Salvador y filiales en Guatemala, Estados Unidos, México y otros países. Queremos unir a los pastores del mundo en el amor de Cristo. El pastor Alex Rodríguez tiene además una incorporación en Austin, Texas (Ministerio Razón de Vivir Internacional, Inc.), afiliada a este ministerio."
+  },
+  "salvacion": {
+    "titulo": "¿Cómo me voy para el cielo?",
+    "cita": "Si confiesas con tu boca que Jesús es el Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo.",
+    "cita_ref": "Romanos 10:9",
+    "intro": "Te hacemos la pregunta más importante de tu vida: ¿eres salvo? No importa cuán bueno seas ni a qué iglesia pertenezcas. Jesús dijo: “Os es necesario nacer de nuevo” (Juan 3:7).",
+    "pasos": [
+      {
+        "titulo": "Reconoce que eres pecador.",
+        "texto": "“Por cuanto todos pecaron” (Romanos 3:23); “la paga del pecado es muerte” (Romanos 6:23)."
+      },
+      {
+        "titulo": "Cree que Jesús pagó por ti.",
+        "texto": "Murió en tu lugar, fue sepultado y resucitó (2 Corintios 5:21; Romanos 5:8)."
+      },
+      {
+        "titulo": "Arrepiéntete e invócalo.",
+        "texto": "“Todo aquel que invocare el nombre del Señor, será salvo” (Romanos 10:13)."
+      },
+      {
+        "titulo": "Crece cada día.",
+        "texto": "Ora, lee la Biblia y comparte con otros la salvación que recibiste."
+      }
+    ],
+    "oracion_titulo": "Una oración para recibir a Cristo",
+    "oracion": "Padre, en el nombre de Jesús de Nazaret, vengo a Ti así como soy, un pecador. Me arrepiento; perdóname y límpiame con la sangre de Tu Hijo amado. Perdono a todos los que me han hecho daño. Renuncio a Satanás y a sus mentiras y maldiciones generacionales. Acepto a Cristo como mi Señor y Salvador, y creo que Tú lo resucitaste al tercer día. Sana mi cuerpo, alma y espíritu, escribe mi nombre en el libro de la vida y lléname con el poder de Tu Espíritu Santo. Gracias, Señor, por hacerme una criatura nueva. En el nombre de Jesús de Nazaret he orado. Amén.",
+    "versiculos": "Más versículos: Juan 3:16, 1 Pedro 2:24, Isaías 53:6, Efesios 2:8-9, 1 Corintios 15:3-4, Juan 10:27-30, 1 Juan 5:13."
+  },
+  "multimedia": {
+    "titulo": "Radio en línea y multimedia",
+    "intro": "Escuche la radio del ministerio y vea nuestros mensajes desde cualquier lugar.",
+    "radio_url": "",
+    "video_url": "",
+    "video_archivo": ""
+  },
+  "contacto": {
+    "titulo": "Pida su cobertura",
+    "nombre": "Ministerio Profético La Luz Resplandeciente Internacional",
+    "direccion": "Carretera Panamericana, Km. 16, Edificio Celeste, San Martín, San Salvador, El Salvador, C. A.",
+    "telefonos": [
+      {
+        "texto": "(503) 2541-6070"
+      },
+      {
+        "texto": "(503) 7783-0584"
+      },
+      {
+        "texto": "(503) 7992-5261"
+      }
+    ],
+    "whatsapp": "50377830584",
+    "email": "",
+    "facebook": "",
+    "donaciones": ""
+  }
+}
